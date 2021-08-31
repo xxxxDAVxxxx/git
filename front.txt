@@ -2,3 +2,4 @@ init
 init2
 front-changed
 front-changed 2
+test changes
